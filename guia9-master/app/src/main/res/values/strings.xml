@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guia9</string>
+    <string name="first_text_left">7:24 PM - 8:00 PM</string>
+    <string name="first_text_right">36 mim</string>
+    <string name="second_text">7:26 PM from 96 St</string>
+    <string name="third_text">13 min</string>
+    <string name="forth_text">Every 12 min</string>
+    <string name="chip_text">6</string>
+</resources>
